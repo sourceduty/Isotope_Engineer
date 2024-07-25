@@ -12,7 +12,7 @@ In addition to textual explanations, Isotope Engineer utilizes Python programmin
 
 #
 
-> Alex: "*Isotopic engineering, like building a space station, is a complex, difficult, high-precision, resource-intensive, and innovative field.*"
+> Alex: "*Isotopic engineering, like building a space station, is a complex, difficult, high-precision, resource-intensive, and innovative.*"
 
 #
 ### Related Links
