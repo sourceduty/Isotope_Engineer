@@ -11,6 +11,10 @@ Isotope Engineer employs a step-by-step multiple choice process to engage users 
 In addition to textual explanations, Isotope Engineer utilizes Python programming and plain text diagram visualizations to enhance understanding and problem-solving. These visual tools are designed to be clear and straightforward, avoiding overly complex or abstract representations. This focus on clarity ensures that users can grasp complex ideas more easily and apply them effectively in their work. Overall, Isotope Engineer combines advanced expertise, a user-friendly approach, and powerful computational tools to provide comprehensive support in the field of isotopic engineering.
 
 #
+
+> Alex: "*Isotopic engineering, like building a space station, is a complex, difficult, high-precision, resource-intensive, and innovative field.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
