@@ -12,6 +12,12 @@ In addition to textual explanations, Isotope Engineer utilizes Python programmin
 
 #
 
+```
+Simulate isotopes for particle physics simulations.
+```
+
+#
+
 > Alex: "*Isotopic engineering, like building a space station, is complex, difficult, high-precision, resource-intensive, and innovative.*"
 
 #
