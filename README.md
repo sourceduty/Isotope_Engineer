@@ -24,6 +24,8 @@ In addition to textual explanations, Isotope Engineer utilizes Python programmin
 [Multiphysics Simulator](https://chat.openai.com/g/g-9PVqGto6g-multiphysics-simulator)
 <br>
 [Physics Simulator](https://chat.openai.com/g/g-jdGow4iV3-physics-simulator)
+<br>
+[Particle Simulator](https://github.com/sourceduty/Particle_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
