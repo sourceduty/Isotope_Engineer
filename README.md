@@ -32,6 +32,8 @@ Simulate isotopes for particle physics simulations.
 [Physics Simulator](https://chat.openai.com/g/g-jdGow4iV3-physics-simulator)
 <br>
 [Particle Simulator](https://github.com/sourceduty/Particle_Simulator)
+<br>
+[Nuclear Chemistry Simulator](https://github.com/sourceduty/Nuclear_Chemistry_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
